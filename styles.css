@@ -1,0 +1,43 @@
+.container{
+    width: 70%;
+    text-align: center;
+    margin:auto
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+
+body{
+    background-color: #D789DB;
+}
+
+
+h1{
+    margin: 30px;
+    font-family:'Dancing Script', cursive;;
+    text-shadow:5px 0px rgb(51, 75, 153) ;
+    font-size: 6rem;
+    color:#D71EDB;
+}
+
+p{
+    font-size:2rem;
+    font-family:'Lobster Two', cursive;
+    color:#AB1EDB;
+}
+
+img{
+    width: 80%;
+}
+
+footer{
+    margin-top: 10%;
+    /* color: ; */
+    text-align: center;
+    font-family:'Lobster Two', cursive;
+}
+
+
+
